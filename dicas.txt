@@ -1,0 +1,19 @@
+react native svg 
+1 = instalar expor svg
+2 = instalar transform svg
+1 = (criar arquivos)
+
+
+//sobreposição de tela
+
+instalar o 
+react-native-iphone-x-helper e import o get... no style da home
+
+
+intalar o gradiente
+
+intalar o moti para animações
+
+instalar o auth session -> autentificação com navegador
+
+asyncstorage
